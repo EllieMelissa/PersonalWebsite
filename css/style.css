@@ -150,7 +150,7 @@ ul, ol{
 }
 
 #home .layer{
-    height: 750px;
+    height: 850px;
     background-attachment: fixed;
 background: rgba(7, 2, 4, 0.77);
 }
@@ -164,7 +164,7 @@ background: rgba(7, 2, 4, 0.77);
   display: block;
 }
 /* About Section
-==============================*/
+/* ==============================* */
 #about{
     padding: 80px 0;
 
